@@ -1,6 +1,6 @@
 # Ethereum Distributed Token Exchange
 
-Token-Exchange with MetaMask and the Rinkeby Test-Net
+Decentralized Token-Exchange with MetaMask and the Rinkeby Test-Net
 
 ![distributed token exchange splash screen](ExchangeAnimation.gif "The Distributed Token Exchange")
 
